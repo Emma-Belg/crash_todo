@@ -1,5 +1,5 @@
 Following [this tutorial on YouTube](https://www.youtube.com/watch?v=sBws8MSXN7A&t=97s).
-
+The tutorial is slightly outdated as it uses classes instead of functions and hooks, I am attempting to follow it without using any classes... so we will see how I go.  
 
 
 
